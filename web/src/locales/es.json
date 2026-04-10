@@ -1,0 +1,201 @@
+{
+  "nav": {
+    "problem": "Problema",
+    "solution": "Solución",
+    "dashboard": "Panel",
+    "pricing": "Precios",
+    "requestPilot": "Solicitar Piloto →",
+    "signIn": "Iniciar Sesión",
+    "myDashboard": "Mi Panel →"
+  },
+  "hero": {
+    "badge": "Satélite · IA · Bioseguridad Industrial",
+    "est": "Est. 2025 · Cinturón Tropical LatAm",
+    "h1line1": "Predice brotes.",
+    "h1line2": "Protege",
+    "h1em": "operaciones.",
+    "desc": "VECTRA fusiona radar SAR satelital con algoritmos epidemiológicos para entregar una alerta temprana de 4 semanas ante brotes de enfermedades vectoriales—antes de que impacten a tu fuerza laboral o tu P&L.",
+    "startPilot": "Iniciar Piloto Gratuito",
+    "seeDemo": "Ver Demo en Vivo →",
+    "scroll": "Desplazar para explorar",
+    "kpi1Val": "21+",
+    "kpi1Unit": "días",
+    "kpi1Lbl": "Tiempo de alerta anticipada",
+    "kpi2Val": "<5",
+    "kpi2Unit": "%",
+    "kpi2Lbl": "Tasa de falsos positivos",
+    "kpi3Val": "200",
+    "kpi3Unit": "×",
+    "kpi3Lbl": "ROI si se previene una crisis"
+  },
+  "problem": {
+    "eyebrow": "La Crisis Invisible",
+    "h2line1": "Los brotes drenan capital",
+    "h2line2": "que no puedes ver venir.",
+    "intro": "Las empresas en zonas tropicales pierden entre el 10 y el 20% de su capacidad operativa durante temporadas de brotes no gestionados. No es solo una crisis sanitaria: es un drenaje masivo de capital por tiempo de inactividad invisible.",
+    "items": [
+      {
+        "num": ".01",
+        "title": "El paro operativo se propaga rápido",
+        "body": "Una reducción del 20% de la fuerza laboral durante la temporada de brotes no solo reduce la producción—desencadena fallas en cascada en turnos, mantenimiento de equipos y cadenas de suministro simultáneamente.",
+        "stat": "20%",
+        "statLbl": "capacidad perdida · operaciones tropicales"
+      },
+      {
+        "num": ".02",
+        "title": "Las decisiones de fumigación siempre llegan tarde",
+        "body": "Cuando aparecen síntomas en la fuerza laboral, el brote ya está arraigado. Los protocolos reactivos actuales retrasan 3–5 días respecto a la realidad. VECTRA entrega alertas 21–28 días antes.",
+        "stat": "3–5",
+        "statLbl": "días promedio de detección actual"
+      },
+      {
+        "num": ".03",
+        "title": "Los datos climáticos estándar ignoran los factores de riesgo reales",
+        "body": "Los pronósticos de lluvia no capturan la retención de humedad del suelo, la densidad de biomasa ni los charcos en la selva densa—el entorno de cría real del vector Aedes aegypti.",
+        "stat": "$500M",
+        "statLbl": "exposición diaria en una gran mina"
+      }
+    ]
+  },
+  "solution": {
+    "eyebrow": "Nuestra Solución",
+    "h2": "El Bloomberg de la\nBioseguridad Industrial",
+    "intro": "Fusionamos datos satelitales abiertos, APIs epidemiológicas y modelos hidrológicos en un único motor predictivo—entregando una señal de riesgo verde/rojo 4 semanas antes de que las condiciones sean peligrosas.",
+    "whatYouGet": "Lo que recibes",
+    "sources": [
+      {
+        "icon": "🛰",
+        "name": "Radar SAR Sentinel-1 / ICEYE",
+        "desc": "El radar de banda C mapea la humedad del suelo y el agua estancada a través de la nube—indicadores primarios de cría vectorial.",
+        "badge": "En Vivo"
+      },
+      {
+        "icon": "🦟",
+        "name": "API InfoDengue",
+        "desc": "Feed de alertas epidemiológicas en tiempo real, validado en The Lancet. Cubre dengue, chikungunya y Zika en toda LatAm.",
+        "badge": "Activo"
+      },
+      {
+        "icon": "💧",
+        "name": "Motor Hidrológico D-MOSS",
+        "desc": "Modelo NASA de disponibilidad hídrica. Cruza lluvia, escorrentía y retención superficial para predecir focos de cría.",
+        "badge": "Activo"
+      }
+    ],
+    "features": [
+      { "icon": "📡", "title": "Fusión de Radar SAR", "desc": "Mapeo tropical penetrante de nubes cada 6 días. Humedad, biomasa, terreno." },
+      { "icon": "🧠", "title": "Motor de Riesgo Predictivo", "desc": "ML que correlaciona humedad del suelo con ciclos vectoriales. Entrenado con 8 años de datos LatAm." },
+      { "icon": "🟢", "title": "Señal Semanal Verde/Rojo", "desc": "Nivel de alerta simple por sitio, vía panel, API o email." },
+      { "icon": "📋", "title": "Reportes ESG Automatizados", "desc": "Demuestra redución de químicos a reguladores. \"30% menos fumigación, mejores resultados.\"" },
+      { "icon": "🔒", "title": "Soberanía de Datos ALCE", "desc": "Cumplimiento nativo LatAm—una barrera que los competidores de Silicon Valley aún no han superado." }
+    ]
+  },
+  "dashboard": {
+    "eyebrow": "Vista Previa en Vivo",
+    "h2": "Tu Monitor de Riesgo Operativo",
+    "desc": "Alertas en tiempo real. Pronóstico de 4 semanas. Estado de riesgo por sitio.",
+    "openFull": "Abrir Panel Completo →",
+    "tabs": ["Todos los Sitios", "Minería", "Energía"],
+    "legend": { "high": "Riesgo Alto", "medium": "Medio", "low": "Despejado" },
+    "metrics": {
+      "sites": "Sitios Monitoreados",
+      "alerts": "Alertas Activas",
+      "lead": "Promedio Alerta Temprana",
+      "prevented": "Prevenidos (T2)",
+      "action": "Acción requerida",
+      "incidents": "incidentes bloqueados",
+      "vsIndustry": "vs. promedio ind. 3 días"
+    }
+  },
+  "pricing": {
+    "eyebrow": "Precios",
+    "h2line1": "La Economía",
+    "h2line2": "\"Obvia\"",
+    "desc": "El costo anual de VECTRA = 0.5% de un día de inactividad. Previene una crisis y recuperas la inversión 200 veces.",
+    "roiDesc": "ROI si VECTRA previene un solo día de crisis operativa en una mina mediana.",
+    "plans": {
+      "basic": {
+        "badge": "Inicial",
+        "name": "Alertas Básicas",
+        "desc": "Panel de alerta temprana para un único sitio operativo.",
+        "price": "490",
+        "per": "por sitio / mes · facturado anualmente",
+        "cta": "Iniciar Piloto Gratuito",
+        "features": [
+          "1 sitio operativo",
+          "Panel de pronóstico de riesgo 4 semanas",
+          "Reporte PDF semanal",
+          "Capas de datos InfoDengue y D-MOSS",
+          "Soporte por email y chat"
+        ]
+      },
+      "pro": {
+        "badge": "Más Popular",
+        "name": "Pro — Alertas + ESG + API",
+        "desc": "Suite completa para operaciones multi-sitio con reportes de cumplimiento.",
+        "price": "1.490",
+        "per": "por sitio / mes · facturado anualmente",
+        "cta": "Solicitar Demo",
+        "features": [
+          "Hasta 10 sitios operativos",
+          "Panel en tiempo real + API REST",
+          "Reportes ESG automatizados",
+          "Umbrales de alerta personalizados",
+          "Integración de datos SAR Sentinel-1",
+          "Gestor de cuenta dedicado",
+          "Paquete de cumplimiento ALCE"
+        ]
+      }
+    }
+  },
+  "footer": {
+    "tagline": "Seguro de Continuidad Operativa vía Satélite. Protegiendo personas y capital en el Cinturón Tropical.",
+    "copyright": "© 2026 VECTRA. Todos los derechos reservados.",
+    "mission": "Creado para directores operativos que no pueden permitirse sorpresas.",
+    "product": "Producto",
+    "dataSources": "Fuentes de Datos",
+    "company": "Empresa",
+    "links": {
+      "dashboard": "Panel",
+      "api": "Acceso API",
+      "esg": "Reportes ESG",
+      "pricing": "Precios",
+      "about": "Nosotros",
+      "contact": "Contacto",
+      "alce": "Cumplimiento ALCE"
+    }
+  },
+  "auth": {
+    "signIn": "Iniciar Sesión",
+    "signUp": "Crear Cuenta",
+    "continueGoogle": "Continuar con Google",
+    "orEmail": "o continuar con email",
+    "email": "Correo electrónico",
+    "password": "Contraseña",
+    "noAccount": "¿No tienes cuenta?",
+    "hasAccount": "¿Ya tienes cuenta?",
+    "signUpLink": "Regístrate",
+    "signInLink": "Inicia sesión",
+    "signingIn": "Iniciando sesión…",
+    "note": "Tus datos están protegidos bajo cumplimiento ALCE y LGPD."
+  },
+  "modal": {
+    "badge": "Programa Piloto Gratuito",
+    "h2": "Inicia tu piloto gratuito de 30 días",
+    "desc": "Configuraremos VECTRA para tus sitios operativos y entregaremos tu primer reporte de riesgo semanal en 48 horas.",
+    "fields": {
+      "name": "Nombre completo",
+      "email": "Email de trabajo",
+      "company": "Empresa",
+      "role": "Tu cargo",
+      "industry": "Industria",
+      "sites": "Número de sitios operativos"
+    },
+    "submit": "Solicitar Piloto Gratuito →",
+    "submitting": "Enviando…",
+    "note": "Sin tarjeta de crédito. La configuración toma 10 minutos.",
+    "successTitle": "¡Estás en la lista!",
+    "successDesc": "Te contactaremos en 24 horas para configurar tu piloto. Tu primer reporte semanal llegará en 48 horas.",
+    "close": "Cerrar"
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "nav": {
+    "problem": "Problem",
+    "solution": "Solution",
+    "dashboard": "Dashboard",
+    "pricing": "Pricing",
+    "requestPilot": "Request Pilot →",
+    "signIn": "Sign In",
+    "myDashboard": "My Dashboard →"
+  },
+  "hero": {
+    "badge": "Satellite · AI · Bio-Security",
+    "est": "Est. 2025 · LatAm Tropical Belt",
+    "h1line1": "Predict outbreaks.",
+    "h1line2": "Protect",
+    "h1em": "operations.",
+    "desc": "VECTRA fuses SAR satellite radar with epidemiological algorithms to deliver a 4-week early warning for vector-borne outbreak risk—before it reaches your workforce or your P&L.",
+    "startPilot": "Start Free Pilot",
+    "seeDemo": "See Live Demo →",
+    "scroll": "Scroll to explore",
+    "kpi1Val": "21+",
+    "kpi1Unit": "days",
+    "kpi1Lbl": "Early warning lead time",
+    "kpi2Val": "<5",
+    "kpi2Unit": "%",
+    "kpi2Lbl": "False positive rate",
+    "kpi3Val": "200",
+    "kpi3Unit": "×",
+    "kpi3Lbl": "ROI if one crisis prevented"
+  },
+  "problem": {
+    "eyebrow": "The Hidden Crisis",
+    "h2line1": "Outbreaks drain capital",
+    "h2line2": "you cannot see coming.",
+    "intro": "Companies in tropical zones lose 10–20% of operational capacity during unmanaged outbreak seasons. This is not only a health crisis—it is a massive drain on capital through invisible downtime.",
+    "items": [
+      {
+        "num": ".01",
+        "title": "Operational stoppage cascades fast",
+        "body": "A 20% workforce reduction during outbreak season doesn't just reduce output—it triggers cascading failures across shift scheduling, equipment maintenance, and supply chains simultaneously.",
+        "stat": "20%",
+        "statLbl": "capacity lost · tropical operations"
+      },
+      {
+        "num": ".02",
+        "title": "Fumigation decisions always come too late",
+        "body": "By the time symptoms appear in the workforce, the outbreak is already embedded. Current reactive protocols lag 3–5 days behind real conditions. VECTRA delivers alerts 21–28 days early.",
+        "stat": "3–5",
+        "statLbl": "days average detection lead (today)"
+      },
+      {
+        "num": ".03",
+        "title": "Standard weather data misses the real risk drivers",
+        "body": "Rain forecasts don't capture soil moisture retention, biomass density, or standing water micro-pockets in dense jungle—the actual breeding environment for Aedes aegypti vectors.",
+        "stat": "$500M",
+        "statLbl": "daily exposure in a single large mine"
+      }
+    ]
+  },
+  "solution": {
+    "eyebrow": "Our Solution",
+    "h2": "The Bloomberg of\nIndustrial Bio-Security",
+    "intro": "We fuse open satellite data, epidemiological APIs, and hydrological models into a single predictive engine—delivering a red/green risk signal 4 weeks before conditions become dangerous.",
+    "whatYouGet": "What you get",
+    "sources": [
+      {
+        "icon": "🛰",
+        "name": "Sentinel-1 / ICEYE SAR Radar",
+        "desc": "C-Band radar maps soil moisture and standing water through cloud cover—primary vector breeding indicators.",
+        "badge": "Live"
+      },
+      {
+        "icon": "🦟",
+        "name": "InfoDengue API",
+        "desc": "Real-time epidemiological alert feed peer-validated in The Lancet. Covers dengue, chikungunya, and Zika across LatAm.",
+        "badge": "Active"
+      },
+      {
+        "icon": "💧",
+        "name": "D-MOSS Hydrology Engine",
+        "desc": "NASA-originated water availability model. Cross-references rainfall, runoff, and surface retention to predict breeding hotspots.",
+        "badge": "Active"
+      }
+    ],
+    "features": [
+      { "icon": "📡", "title": "SAR Radar Fusion", "desc": "Cloud-penetrating tropical mapping every 6 days. Humidity, biomass, terrain." },
+      { "icon": "🧠", "title": "Predictive Risk Engine", "desc": "ML correlating soil moisture with vector cycles. Trained on 8 years of LatAm data." },
+      { "icon": "🟢", "title": "Red/Green Weekly Signal", "desc": "Dead-simple alert level per site, via dashboard, API, or email." },
+      { "icon": "📋", "title": "Automated ESG Reports", "desc": "Prove chemical reduction to regulators. \"30% less fumigation, better outcomes.\"" },
+      { "icon": "🔒", "title": "ALCE-Compliant Data Sovereignty", "desc": "Native LatAm compliance—a barrier Silicon Valley competitors haven't cleared." }
+    ]
+  },
+  "dashboard": {
+    "eyebrow": "Live Preview",
+    "h2": "Your Operational Risk Monitor",
+    "desc": "Real-time alerts. 4-week forecast. Live per-site risk status.",
+    "openFull": "Open Full Dashboard →",
+    "tabs": ["All Sites", "Mining", "Energy"],
+    "legend": { "high": "High Risk", "medium": "Medium", "low": "Clear" },
+    "metrics": {
+      "sites": "Sites Monitored",
+      "alerts": "Active Alerts",
+      "lead": "Warning Lead Avg.",
+      "prevented": "Prevented (Q2)",
+      "action": "Action required",
+      "incidents": "incidents blocked",
+      "vsIndustry": "vs. 3-day industry avg."
+    }
+  },
+  "pricing": {
+    "eyebrow": "Pricing",
+    "h2line1": "The \"No-Brainer\"",
+    "h2line2": "Economics",
+    "desc": "Annual VECTRA cost = 0.5% of one day of downtime. Prevent one crisis, return your investment 200 times over.",
+    "roiDesc": "ROI if VECTRA prevents a single day of operational crisis at a mid-sized mining site.",
+    "plans": {
+      "basic": {
+        "badge": "Starter",
+        "name": "Basic Alerts",
+        "desc": "Early warning dashboard for a single operational site.",
+        "price": "490",
+        "per": "per site / month · billed annually",
+        "cta": "Start Free Pilot",
+        "features": [
+          "1 operational site",
+          "4-week risk forecast dashboard",
+          "Weekly PDF alert report",
+          "InfoDengue & D-MOSS data layers",
+          "Email & chat support"
+        ]
+      },
+      "pro": {
+        "badge": "Most Popular",
+        "name": "Pro — Alerts + ESG + API",
+        "desc": "Full suite for multi-site operations with compliance reporting.",
+        "price": "1,490",
+        "per": "per site / month · billed annually",
+        "cta": "Request Demo",
+        "features": [
+          "Up to 10 operational sites",
+          "Real-time dashboard + REST API",
+          "Automated ESG compliance reports",
+          "Custom alert thresholds",
+          "Sentinel-1 SAR data integration",
+          "Dedicated account manager",
+          "ALCE compliance package"
+        ]
+      }
+    }
+  },
+  "footer": {
+    "tagline": "Operational Continuity Insurance via Satellite. Protecting people and capital in the Tropical Belt.",
+    "copyright": "© 2026 VECTRA. All rights reserved.",
+    "mission": "Built for operational directors who cannot afford surprises.",
+    "product": "Product",
+    "dataSources": "Data Sources",
+    "company": "Company",
+    "links": {
+      "dashboard": "Dashboard",
+      "api": "API Access",
+      "esg": "ESG Reports",
+      "pricing": "Pricing",
+      "about": "About",
+      "contact": "Contact",
+      "alce": "ALCE Compliance"
+    }
+  },
+  "auth": {
+    "signIn": "Sign In",
+    "signUp": "Create Account",
+    "continueGoogle": "Continue with Google",
+    "orEmail": "or continue with email",
+    "email": "Email address",
+    "password": "Password",
+    "noAccount": "Don't have an account?",
+    "hasAccount": "Already have an account?",
+    "signUpLink": "Sign up",
+    "signInLink": "Sign in",
+    "signingIn": "Signing in…",
+    "note": "Your data is protected under ALCE and LGPD compliance."
+  },
+  "modal": {
+    "badge": "Free Pilot Programme",
+    "h2": "Start your free 30-day pilot",
+    "desc": "We'll configure VECTRA for your operational sites and deliver your first weekly risk report within 48 hours.",
+    "fields": {
+      "name": "Full name",
+      "email": "Work email",
+      "company": "Company",
+      "role": "Your role",
+      "industry": "Industry",
+      "sites": "Number of operational sites"
+    },
+    "submit": "Request Free Pilot →",
+    "submitting": "Sending…",
+    "note": "No credit card required. Setup takes 10 minutes.",
+    "successTitle": "You're on the list!",
+    "successDesc": "We'll reach out within 24 hours to configure your pilot. Your first weekly risk report will arrive within 48 hours.",
+    "close": "Close"
+  }
+}
